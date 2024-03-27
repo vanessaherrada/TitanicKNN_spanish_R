@@ -2,9 +2,10 @@
 
 Este desafío, extraído de Kaggle (https://www.kaggle.com/competitions/titanic/overview), plantea la tarea de emplear el aprendizaje automático para desarrollar un modelo capaz de prever qué pasajeros lograron sobrevivir al naufragio del Titanic.
 
-![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/4a836f83-e0e9-4b37-bf26-88d64295837a)
+![image](https://github.com/vanessaherrada/TitanicKNN_spanish_R/assets/163647765/4bc3f9f7-b55d-49c5-afff-ccf13f68c008)
 
-![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/a413dc8e-dd42-4511-8875-2b4c1103b7fc)
+![image](https://github.com/vanessaherrada/TitanicKNN_spanish_R/assets/163647765/15eb4698-bde8-416b-9dda-9e52ed9656e2)
 
-![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/d0472a47-6dae-471b-9ffe-b1a7dcb358d6)
+![image](https://github.com/vanessaherrada/TitanicKNN_spanish_R/assets/163647765/c4ee8323-aa74-41c3-b671-40b2b81c8999)
 
+![image](https://github.com/vanessaherrada/TitanicKNN_spanish_R/assets/163647765/6a002db1-cd77-4003-86a1-f54b07a8e915)
